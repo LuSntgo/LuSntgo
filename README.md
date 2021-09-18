@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <img align="right" alt="Git-Computador" width="200px" src="https://resizeimage.net/myimg/CbliP1hr08fedU7c-pic-gif"/>
+</div>
