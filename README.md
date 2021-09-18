@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <img align="right" alt="Git-Computador" width="200px" src="https://i.ibb.co/Y0q6xFv/Webp-net-gifmaker.gif"/>
+  <img align="right" alt="Git-Computador" width="200px" src="https://i.ibb.co/5RH1F93/Webp-net-gifmaker.gif"/>
 </div>
