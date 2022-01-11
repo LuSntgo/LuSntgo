@@ -35,3 +35,6 @@ Se precisar de ajuda ou tiver dúvidas e sugestões, entre em contato comigo �
   <a href="https://www.linkedin.com/in/lusntg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <br><br>
+ <div>
+  <img align="center" alt="Pixel-Art" width="1000px" src="https://github.com/LuSntgo/LuSntgo/blob/main/kikachan87.gif"/>
+</div>
