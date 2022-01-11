@@ -1,4 +1,4 @@
-## Oi oi, eu sou a Luiza! ✌️
+## Oi oi, sou a Luiza! ✌️
 Seja muito bem vinda(o) ao meu Perfil! ✨
 
 <div>
