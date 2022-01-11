@@ -28,7 +28,7 @@ Seja muito bem vinda(o) ao meu Perfil! ✨
 
 Se precisar de ajuda ou tiver dúvidas e sugestões, entre em contato comigo 😉
   
-<div> 
+<div align="center"> 
  <a href="https://instagram.com/lustrica" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/lustrica" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
    <a href = "mailto:lu.sntgo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
