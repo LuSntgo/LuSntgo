@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 <div>
   <img align="right" alt="Git-Computador" width="200px" src="https://i.ibb.co/5RH1F93/Webp-net-gifmaker.gif"/>
 </div>
+
+![Snake animation](https://github.com/LuSntgo/LuSntgo/blob/output/github-contribution-grid-snake.svg)
