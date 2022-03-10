@@ -12,7 +12,7 @@ Seja muito bem vinda(o) ao meu Perfil! ✨
 
 ## 📊 Estatísticas
 <div align="center">
-  <a href="https://github.com/lusntgo">
+  <a href="https://github.com/lusntgo"></a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lusntgo&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lusntgo&layout=compact&langs_count=16&theme=jolly"/> <br>
 </div>
