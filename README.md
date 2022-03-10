@@ -15,15 +15,21 @@ Seja muito bem vinda(o) ao meu Perfil! ✨
   <a href="https://github.com/lusntgo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lusntgo&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lusntgo&layout=compact&langs_count=16&theme=jolly"/> <br>
-  <img align="center" alt="Lu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Lu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lu-NodeJS" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="center" alt="Lu-NodeJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-    <img align="center" alt="Lu-NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
- 
+</div>
+<div align="center">
+<img alt="html" title="#html" width="60px" src="./assets/html.svg" />
+<img alt="css" title="#css" width="60px" src="./assets/css.svg" />
+<img alt="javascript" title="#javascript" width="60px" src="./assets/js.svg" />
+<img alt="react" title="#react" width="60px" src="./assets/react.svg" />
+<img alt="npm" title="#npm" width="60px" src="./assets/npm.svg" />
+<img alt="nodejs" title="#nodejs" width="60px" src="./assets/nodejs.svg" />
+<img alt="postgres" title="#postgres" width="60px" src="./assets/postgres.svg" />
+<img alt="typescript" title="#typescript" width="60px" src="./assets/typescript.png" />
+<img alt="jest" title="#jest" width="60px" src="./assets/jest.png" />
+<img alt="docker" title="#docker" width="60px" src="./assets/docker.png" />
+</div>
 
+ 
 
 ![Snake animation](https://github.com/LuSntgo/LuSntgo/blob/output/github-contribution-grid-snake.svg)
 </div>
