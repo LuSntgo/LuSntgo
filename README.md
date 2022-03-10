@@ -21,12 +21,12 @@ Seja muito bem vinda(o) ao meu Perfil! ✨
 <img alt="css" title="#css" width="60px" src="./assets/css.svg" />
 <img alt="javascript" title="#javascript" width="60px" src="./assets/js.svg" />
 <img alt="react" title="#react" width="60px" src="./assets/react.svg" />
+<img alt="express" title="#express" width="60px" src="./assets/express.svg" />
 <img alt="npm" title="#npm" width="60px" src="./assets/npm.svg" />
 <img alt="nodejs" title="#nodejs" width="60px" src="./assets/nodejs.svg" />
+<img alt="mongodb" title="#mongodb" width="60px" src="./assets/mongodb.svg" />
 <img alt="postgres" title="#postgres" width="60px" src="./assets/postgres.svg" />
-<img alt="typescript" title="#typescript" width="60px" src="./assets/typescript.png" />
-<img alt="jest" title="#jest" width="60px" src="./assets/jest.png" />
-<img alt="docker" title="#docker" width="60px" src="./assets/docker.png" />
+
 </div>
 
  
