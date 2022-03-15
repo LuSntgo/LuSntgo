@@ -7,7 +7,7 @@ Seja muito bem vinda(o) ao meu Perfil! ✨
 
 - Pronomes: ela/dela
 - Sou Desenvolvedora Web Full-Stack {em desenvolvimento} apaixonada por Tecnologia, faço parte da T4 da Driven Education.
-- No momento, estou me aperfeiçoando no mundo front-end e explorando o universo do back-end.
+- No momento, estou me aperfeiçoando no mundo front-end, explorando o universo do back-end e aprendendo banco de dados.
 - Uma curiosidade sobre mim: Sou formada em psicologia. 📚
 
 ## 📊 Estatísticas
