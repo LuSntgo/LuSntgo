@@ -2,7 +2,7 @@
 Seja muito bem vinda(o) ao meu Perfil! ✨
 
 <div>
-  <img align="right" alt="Git-Computador" width="150px" src="https://i.ibb.co/5RH1F93/Webp-net-gifmaker.gif"/>
+  <img align="right" alt="Git-Computador" width="200px" src="./assets/Myself.gif"/>
 </div>
 
 - Pronomes: ela/dela
