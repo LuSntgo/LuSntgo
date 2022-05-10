@@ -26,6 +26,8 @@ Seja muito bem vinda(o) ao meu Perfil! ✨
 <img alt="nodejs" title="#nodejs" width="60px" src="./assets/nodejs.svg" />
 <img alt="mongodb" title="#mongodb" width="60px" src="./assets/mongodb.svg" />
 <img alt="postgres" title="#postgres" width="60px" src="./assets/postgres.svg" />
+<img alt="prisma" title="#prisma" width="60px" src="./assets/prisma.svg" />
+<img alt="typescript" title="#typescript" width="60px" src="./assets/typescript.svg" />
 
 </div>
 
