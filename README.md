@@ -6,8 +6,7 @@ Seja muito bem vinda(o) ao meu Perfil! ✨
 </div>
 
 - Pronomes: ela/dela
-- Sou Desenvolvedora Web Full-Stack apaixonada por Tecnologia, faço parte da T4 da Driven Education.
-- No momento, estou me aperfeiçoando no mundo front-end, explorando o universo do back-end.
+- Sou Desenvolvedora Web Full-Stack apaixonada por Tecnologia.
 - Tenho habilidades com HTML, CSS, JavaScript, React, TypeScript, NodeJS, Express, MongoDb, Postgres, Jest, Cypress, AWS, Docker, CI/CD.
 - Uma curiosidade sobre mim: Sou formada em psicologia. 📚
 
@@ -16,8 +15,7 @@ Seja muito bem vinda(o) ao meu Perfil! ✨
 Welcome to my profile! ✨
 
 - Pronouns: she/her
-- I'm a Full-Stack Web Developer passionate about Technology, I'm part of T4 at Driven Education.
-- At the moment, I'm perfecting in the front-end world and exploring the back-end universe.
+- I'm a Full-Stack Web Developer passionate about Technology.
 - I have skills with HTML, CSS, JavaScript, React, TypeScript, NodeJS, Express, MongoDb, Postgres, Jest, Cypress, AWS, Docker, CI/CD.
 - A curiosity about me: I have a degree in psychology.📚
 
